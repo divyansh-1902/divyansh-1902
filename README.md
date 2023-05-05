@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**divyansh-1902/divyansh-1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyansh-1902&theme=dark&show_icons=true&hide=contribs,issues))
 
 
