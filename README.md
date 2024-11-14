@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on React.js<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with Three.jss<br>🌱 I’m currently learning Python<br>💬 Ask me about Html, Css, JavaScript, Reactjs, Firebase, Python<br>⚡ Fun fact - I am lazy but smart
-
+🔭 I’m a DSA and Data Science enthusiast.<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Html, Css, JavaScript, Reactjs, Firebase, Python, Java.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyansh-singh-183993251/) 
