@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m a DSA and Data Science enthusiast.<br>🌱 I’m currently learning Data Science<br>🎉 Fun Fact: I Love Bugs.<br>💬 Ask me about Html, Css, JavaScript, Reactjs, Firebase, Python, Java.<br>
+🔭 I’m a DSA and Data Science enthusiast.<br>🌱 I’m currently learning Data Science<br>🎉 Fun Fact: I Love Anime and Tech.<br>💬 Ask me about Html, Css, JavaScript, Reactjs, Firebase, Python, Java.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyansh-singh-183993251/) 
